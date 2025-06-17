@@ -60,7 +60,7 @@ We plan to convert the simulator into a real-world mobile application using **Re
 
 ## 💻 Run Locally
 
-```bash
+***bash
 git clone https://github.com/student-kajal/disaster-mesh-simulator.git
 cd disaster-mesh-simulator
 npm install
